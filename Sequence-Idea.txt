@@ -1,0 +1,7 @@
+01. Create a template for each type of advert file required (ie. ebay = ebay.htm + picture folder)
+02. Have some data in the master spreadsheet to use
+	[PYTHON]
+03. Python file checks item titles and offers confirmation of key number
+	a. Load sheet index ref and titles in to a memory array and display on scroll box
+04. User enters in index item and also selects type of advert required.
+05. Output is processed

@@ -1,0 +1,18 @@
+Marketplace
+===========
+
+01. Take photos of the item
+02. Get item details:
+	a. Title
+	b. Main description:
+		* Condition
+		* History
+	c. Price:
+		* Compare price I paid
+		* Compair price they go for
+	d. Collection/delivery details/restrictions
+03. Decide ideal listing time
+	a. Consider holidays
+	b. Busy periods
+	c. General availability
+04. Add details in to Marketplace

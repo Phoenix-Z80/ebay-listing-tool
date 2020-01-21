@@ -1,0 +1,1 @@
+This folder is used to store the range of photos to be used. Multiple photos could be assigned to each advert.
